@@ -20,7 +20,7 @@ Para injetar o MOD pelo navegador de PC, você só vai precisar abrir o [ChatGPT
 
 
 ```bash
-var scriptUrl='https://raw.githubusercontent.com/davizinmakerkkj/PoopGPT2/main/PoopGPT2.txt';fetch(scriptUrl).then(response=>response.text()).then(script=>{var scriptElement=document.createElement('script');scriptElement.innerHTML=script;document.head.appendChild(scriptElement);}).catch(error=>{console.error('Ocorreu um erro ao carregar o script:',error);});
+var scriptUrl='https://raw.githubusercontent.com/byhenryzzx/PoopGPT2/main/PoopGPT2.txt';fetch(scriptUrl).then(response=>response.text()).then(script=>{var scriptElement=document.createElement('script');scriptElement.innerHTML=script;document.head.appendChild(scriptElement);}).catch(error=>{console.error('Ocorreu um erro ao carregar o script:',error);});
 ```
 
 #### 📲 Pelo Navegador de Android
