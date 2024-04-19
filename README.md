@@ -87,7 +87,7 @@ A implementação do CSP pela OpenAI é um passo significativo na proteção dos
 
 ## 🚫 Extensão "Disable CSP"
 
-A extensão "Disable CSP" é uma ferramenta útil para contornar as restrições do Content Security Policy (CSP) implementadas pela OpenAI no ChatGPT. Essa extensão permite desativar temporariamente o CSP no navegador, facilitando a execução de scripts de terceiros, como o PoopGPT V2.
+A extensão "Disable CSP" é uma ferramenta útil para contornar as restrições do Content Security Policy (CSP) implementadas pela OpenAI no ChatGPT. Essa extensão permite desativar temporariamente o CSP no navegador, facilitando a execução de scripts de terceiros, como o PoopGPT.
 
 ### 🔗 Link para a Extensão
 
@@ -112,7 +112,7 @@ Para instalar a extensão "Disable CSP", siga estas etapas:
 
 Depois de instalar a extensão, você pode desativar o CSP facilmente clicando no ícone da extensão na barra de ferramentas do navegador. Em seguida, clique nos dois switches de desabilitar o CSP para permitir a execução de scripts de terceiros. Certifique-se de habilitar novamente o CSP após o uso da extensão para garantir a segurança da sua navegação.
 
-A extensão "Disable CSP" oferece uma solução simples e eficaz para contornar as restrições do CSP no ChatGPT e aproveitar ao máximo recursos como o PoopGPT V2.
+A extensão "Disable CSP" oferece uma solução simples e eficaz para contornar as restrições do CSP no ChatGPT e aproveitar ao máximo recursos como o PoopGPT.
 
 ## 📜 Nota
-Tanto eu quanto o davizinmaker, não temos nenhuma relação com a OpenAI. Tanto a versão quanto o ReMod foram feitos para fins educacionais. Use a seu critério.
+Tanto eu quanto o davizinmaker, não temos nenhuma relação com a OpenAI. Tanto a versão original quanto o ReMod foram feitos para fins educacionais. Use a seu critério.
