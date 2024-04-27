@@ -1,4 +1,4 @@
-# 💩 PoopGPT - Script Injector para ChatGPT 💩
+# PoopGPT - Script Injector para ChatGPT
 Uma simples extensão para burlar totalmente os filtros de proteção do ChatGPT - OpenAI
 
 ## 📔 Sobre
