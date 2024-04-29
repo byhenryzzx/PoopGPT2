@@ -1,2 +1,0 @@
-gh release delete-asset updates source_code.zip -y
-gh release delete-asset updates source_code.tar.gz -y
