@@ -115,4 +115,4 @@ Depois de instalar a extensão, você pode desativar o CSP facilmente clicando n
 A extensão "Disable CSP" oferece uma solução simples e eficaz para contornar as restrições do CSP no ChatGPT e aproveitar ao máximo recursos como o PoopGPT.
 
 ## 📜 Nota
-Tanto eu quanto o davizinmaker, não temos nenhuma relação com a OpenAI. Tanto a versão original quanto o ReMod foram feitos para fins educacionais. Use a seu critério.
+Este projeto foi desenvolvido 100% rm JavaScript, sem o uso de códigos maliciosos ou prejudiciais ao sistema operacional, lembrando que tanto eu quanto o davizinmaker, não temos nenhuma relação com a OpenAI. Tanto a versão original quanto o ReMod foram feitos para fins educacionais. Use a seu critério.
